@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">NOTE ONE</string>
+    <string name="app_action_bar_text">NoteOne</string>
+
+    <string name="back">back</string>
+    <string name="save">save</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="some_text">
+
+En el corazón de la ciudad, donde los edificios antiguos se encuentran con la arquitectura moderna, se puede sentir el pulso vibrante de la vida urbana. Cada calle y cada rincón cuentan una historia única, desde los pequeños cafés con encanto hasta los grandes museos llenos de historia.
+
+A medida que el sol se pone, las luces de la ciudad empiezan a brillar, creando un espectáculo de colores y sombras que transforman el paisaje urbano en un verdadero espectáculo visual. La gente se agolpa en las plazas, disfrutando de la cultura local y de la energía que emana de la vida nocturna.
+    </string>
+    <string name="this_is_a_title">Texto de Ejemplo</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="edited_on">Edited on: %1$s</string>
+        <string name="search_here">Buscar aquí…</string>
+        <string name="clear">Limpiar</string>
+        <string name="choose_color">Seleccionar color</string>
+        <string name="add_note">Agregar nota</string>
+        <string name="no_data_image">imagen sin datos</string>
+        <string name="noteContentImage">Imagen del contenido de la nota</string>
+        <string name="add_image">Tomar foto</string>
+        <string name="delete">Eliminar</string>
+        <string name="fileAuthority">com.gamdestroyerr.roomnote.fileProvider</string>
+        <string name="select_image">Seleccionar imagen</string>
+        <string name="fab">fab</string>
+        <string name="short_label">Nota</string>
+        <string name="long_label">Agregar nueva nota</string>
+        <string name="disabled_message">Acceso directo para nueva nota desactivado</string>
+        <string name="delete_fab">deleteFab</string>
+    <string background="@drawable/fondo2" </string>
+    </resources>
